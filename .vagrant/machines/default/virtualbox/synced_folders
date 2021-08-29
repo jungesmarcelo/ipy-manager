@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/marcelojunges/Documents/repos/ipy-manager","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
