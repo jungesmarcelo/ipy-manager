@@ -1,1 +1,1 @@
-{"name":"debian/buster64","version":"10.20210409.1","provider":"virtualbox","directory":"boxes/debian-VAGRANTSLASH-buster64/10.20210409.1/virtualbox"}
+{"name":"archlinux/archlinux","version":"20210815.31636","provider":"virtualbox","directory":"boxes/archlinux-VAGRANTSLASH-archlinux/20210815.31636/virtualbox"}
